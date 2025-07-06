@@ -1,4 +1,8 @@
-# Restaurant Customer Analytics - SQL Case Study
+# Restaurant Customer Analytics: SQL Case Study & Business Insights
+
+> Unlock actionable business insights from restaurant sales and membership data using advanced SQL analytics. This project presents a real-world case study of a Japanese restaurant, focusing on customer behavior, spending patterns, and the impact of loyalty programs. Through a series of well-structured SQL queries and business analysis, the repository demonstrates how data-driven decisions can improve customer engagement, optimize menu offerings, and drive business growth.
+
+---
 
 ## My Journey with This Project
 
